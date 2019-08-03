@@ -1,0 +1,14 @@
+
+*.json
+
+__pycache__/
+
+stories/
+
+*.pyc
+
+users\.txt
+
+\.idea/
+
+\.vscode/\.ropeproject/
